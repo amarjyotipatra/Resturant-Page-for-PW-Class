@@ -1,3 +1,2 @@
-# Resturant-Page-for-PW-Class
 Resturant Page looks like this in my browser
-<img src="" alt="Screenshot" />
+<img src="./Assets/Screenshot (248).png" alt="Screenshot" />
